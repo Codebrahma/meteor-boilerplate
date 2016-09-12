@@ -1,0 +1,4 @@
+{
+  "PAPERTRAIL_HOST": "logs3.papertrailapp.com",
+  "PAPERTRAIL_PORT": 40379
+}
